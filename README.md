@@ -29,7 +29,8 @@
 <h2 align="center">STREAK</h2>
 <p align = "center">
   
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thulioolimpio&theme=gruvbox-light" alt="GitHub Streak" /></a> </p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thulioolimpio&theme=gruvbox-light" alt="GitHub Streak" /></a> 
+</p>
 
 <h2 align="center">ACTIVITY</h2>
 
