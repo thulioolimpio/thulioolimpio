@@ -34,6 +34,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/thulioolimpio/thulioolimpio/output/snake.svg" alt="Snake animation" />
+uses: Platane/snk/svg-only@v3
 
 ###
