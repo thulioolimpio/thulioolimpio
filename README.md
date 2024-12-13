@@ -7,8 +7,8 @@
 <h2 align="center">STATS</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thulioolimpio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thulioolimpio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thulioolimpio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thulioolimpio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <h2 align="center">TECHS</h2>
@@ -27,8 +27,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 </div>
 
+<h2 align="center">ACTIVITY</h2>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
-  <img alt="github-snake" src="./dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thulioolimpio/thulioolimpio/main/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thulioolimpio/thulioolimpio/main/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/thulioolimpio/thulioolimpio/main/dist/github-snake.svg" />
 </picture>
+
