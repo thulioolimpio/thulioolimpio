@@ -26,6 +26,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 </div>
+<h2 align="center">STREAK</h2>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thulioolimpio&theme=gruvbox-light" alt="GitHub Streak" /></a>
 
 <h2 align="center">ACTIVITY</h2>
 
@@ -34,6 +36,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thulioolimpio/thulioolimpio/main/dist/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/thulioolimpio/thulioolimpio/main/dist/github-snake.svg" />
 </picture>
-<h2 align="center">STREAK</h2>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thulioolimpio&theme=gruvbox-light" alt="GitHub Streak" /></a>
+
 
