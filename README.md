@@ -4,11 +4,11 @@
   </a>
 </p>
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="center">👨‍💻  About Me</h3>
 
 ###
 
-<p align="left">- 👩‍💻Thulio<br>- 📚 Byu student<br>-  🇧🇷 Brazilian<br>- 📍 Recife</p>
+<p align="left">- 👨‍💻Thulio<br>- 📚 Byu student<br>-  🇧🇷 Brazilian<br>- 📍 Recife</p>
 
 ###
 
